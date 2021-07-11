@@ -45,10 +45,12 @@ body{background-color:rgb(245, 240, 240);
             height: 110px;
              color: white;
             text-align: center;}
+
+    .ex{text-align: center;color: blue;}        
    
    .div-5{width: 50%;padding: 10px;} 
    .div-6{width: 50%;padding: 10px;} 
-   .div-5 p{text-align: justify; padding-right: 50px;}
+   .div-5 p{text-align: justify; padding-right: 10px;}
    .div-6 p{text-align: justify;}
     
        
@@ -58,7 +60,12 @@ body{background-color:rgb(245, 240, 240);
 
 
    .box-shadow1{box-shadow: rgb(0, 0, 0) 6px 5px 10px;
-                margin-left: 10px;margin-right: 10px;}
-   .box-shadow2{box-shadow: purple 5px 3px 10px;
-                 margin-left: 10px; margin-right: 10px;}
+                margin-left: 10px;margin-right: 10px;
+            padding: 18px;
+        margin-left: 35px;}
+   .box-shadow2{box-shadow: purple 9px 7px 10px;
+                 margin-left: 10px; margin-right: 10px;
+                padding: 16px;
+            margin-right: 30px;
+        height: 280px;}
   

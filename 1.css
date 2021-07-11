@@ -48,10 +48,10 @@ body{background-color:rgb(245, 240, 240);
 
     .ex{text-align: center;color: blue;}        
    
-   .div-5{width: 50%;padding: 10px;} 
-   .div-6{width: 50%;padding: 10px;} 
-   .div-5 p{text-align: justify; padding-right: 10px;}
-   .div-6 p{text-align: justify;}
+   .div-5{width: 50%;padding: 10px; background-image:url(image/FB_IMG_15128236414953885.jpg); background-repeat: no-repeat;} 
+   .div-6{ width: 50%;padding: 10px; background-image: url(image/FB_IMG_15128236414953885.jpg);background-repeat:repeat-x;} 
+   .div-5 p{text-align: justify; padding-right: 10px; font-weight: bolder;}
+   .div-6 p{text-align: justify; font-weight: bolder; color: blue;}
     
        
    .ex{font-size: 47px;}  
@@ -61,11 +61,16 @@ body{background-color:rgb(245, 240, 240);
 
    .box-shadow1{box-shadow: rgb(0, 0, 0) 6px 5px 10px;
                 margin-left: 10px;margin-right: 10px;
-            padding: 18px;
-        margin-left: 35px;}
+                padding: 18px;
+                 margin-left: 35px;
+                 border-left: chartreuse 5px;
+    }
    .box-shadow2{box-shadow: purple 9px 7px 10px;
                  margin-left: 10px; margin-right: 10px;
                 padding: 16px;
-            margin-right: 30px;
-        height: 280px;}
+                margin-right: 30px;
+                height: 280px;
+                border-radius: 13px;
+                border: blue  5px;}
+   .border{border-image:linear-gradient(blue orange)}             
   

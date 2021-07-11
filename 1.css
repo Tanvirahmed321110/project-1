@@ -32,6 +32,10 @@ body{background-color:rgb(202, 180, 180);
      .div4{width: 100%;}
     
      .div4 p{margin-right: 70px;}
+
+     input{padding: 5px;color: azure;background-color: brown;
+          border: burlywood solid 3px;border-radius: 6px;
+        cursor: help;}
     
      .section2 p{text-align: justify;}
      footer a{color: white;}

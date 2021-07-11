@@ -44,3 +44,14 @@ body{background-color:rgb(202, 180, 180);
             height: 110px;
              color: white;
             text-align: center;}
+   
+   .div-5{width: 50%;box-sizing: border-box;padding: 10px;} 
+   .div-5 p{text-align: justify; padding-right: 50px;}
+   .div-6 p{text-align: justify;}
+   .div-6{width: 50%;
+        position: relative;
+       top: 130px;}   
+       
+   .ex{font-size: 47px;}  
+   .main{display: flex;}
+  
